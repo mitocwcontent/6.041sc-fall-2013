@@ -1,0 +1,10 @@
+---
+content_type: resource
+description: ''
+file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/cb872d264c081a98a07c18fc73988433_MIT6_041SCF13_Inferring_a_Parameter_of_Uniform_Part_2_300k.pdf
+file_type: application/pdf
+resourcetype: Document
+title: "6.041SC Probabilistic Systems Analysis and Applied Probability, Fall 2013\
+  \ Transcript \u2013 Recitation: Inferring a Parameter of Uniform Part 2"
+uid: cb872d26-4c08-1a98-a07c-18fc73988433
+---
