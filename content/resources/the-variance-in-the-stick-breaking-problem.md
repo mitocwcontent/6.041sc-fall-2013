@@ -1,0 +1,19 @@
+---
+content_type: resource
+description: ''
+file: null
+resourcetype: Video
+title: The Variance in the Stick Breaking Problem
+uid: 0623d64c-c902-532f-b5d0-104a773caf81
+video_files:
+  archive_url: http://www.archive.org/download/MIT6.041SCF13/MIT6_041SCF13_The_Variance_in_the_Stick_Breaking_Problem_300k.mp4
+  video_captions_file: null
+  video_thumbnail_file: https://img.youtube.com/vi/NlRgBtSLViI/default.jpg
+  video_transcript_file: null
+video_metadata:
+  youtube_id: NlRgBtSLViI
+---
+
+**Description**:
+
+**Instructor**: Jimmy Li
