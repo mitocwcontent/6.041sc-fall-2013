@@ -1,0 +1,179 @@
+leftnav:
+- identifier: 1b731b6f-4737-b89e-b0e3-58a64d24888a
+  name: Syllabus
+  url: /pages/syllabus/
+  weight: 10
+- identifier: bf5c1b3c-4dc7-5e91-1daf-783f9a8a6f83
+  name: Meet The Team
+  parent: 1b731b6f-4737-b89e-b0e3-58a64d24888a
+  url: /pages/syllabus/meet-the-team
+  weight: 20
+- identifier: 0bc3541c-d753-28f5-062b-51cb6d40538d
+  name: 'Unit I: Probability Models And Discrete Random Variables'
+  url: /pages/unit-i/
+  weight: 30
+- identifier: b7578d11-fa1c-dee6-7b78-56ce34e8db48
+  name: Lecture 1
+  parent: 0bc3541c-d753-28f5-062b-51cb6d40538d
+  url: /pages/unit-i/lecture-1
+  weight: 40
+- identifier: 13d8856f-c0bc-fa17-583d-d3dd142ca31a
+  name: Lecture 2
+  parent: 0bc3541c-d753-28f5-062b-51cb6d40538d
+  url: /pages/unit-i/lecture-2
+  weight: 50
+- identifier: 88ec4f7f-5a26-d2a6-d53a-cbe75f7f7929
+  name: Lecture 3
+  parent: 0bc3541c-d753-28f5-062b-51cb6d40538d
+  url: /pages/unit-i/lecture-3
+  weight: 60
+- identifier: 108d48da-58fe-98e5-ce62-e6b1df65eefa
+  name: Lecture 4
+  parent: 0bc3541c-d753-28f5-062b-51cb6d40538d
+  url: /pages/unit-i/lecture-4
+  weight: 70
+- identifier: c23bebfa-7b15-d4af-7f83-d7f19b96837b
+  name: Lecture 5
+  parent: 0bc3541c-d753-28f5-062b-51cb6d40538d
+  url: /pages/unit-i/lecture-5
+  weight: 80
+- identifier: aedead42-950e-896b-b568-a4402ab05dbd
+  name: Lecture 6
+  parent: 0bc3541c-d753-28f5-062b-51cb6d40538d
+  url: /pages/unit-i/lecture-6
+  weight: 90
+- identifier: 06f2cd37-cd92-3c66-ddf2-8ccade9e6a7e
+  name: Lecture 7
+  parent: 0bc3541c-d753-28f5-062b-51cb6d40538d
+  url: /pages/unit-i/lecture-7
+  weight: 100
+- identifier: 7e3927aa-b91f-0313-0647-5e1885bc367e
+  name: Quiz 1
+  parent: 0bc3541c-d753-28f5-062b-51cb6d40538d
+  url: /pages/unit-i/quiz-1
+  weight: 110
+- identifier: 8918d70e-c9d0-1faa-137b-3d89da76fc89
+  name: 'Unit II: General Random Variables'
+  url: /pages/unit-ii/
+  weight: 120
+- identifier: 140e2988-c266-0068-4724-1f9148d8d516
+  name: Lecture 8
+  parent: 8918d70e-c9d0-1faa-137b-3d89da76fc89
+  url: /pages/unit-ii/lecture-8
+  weight: 130
+- identifier: a18c5ed7-4174-bfa2-8380-13a303933305
+  name: Lecture 9
+  parent: 8918d70e-c9d0-1faa-137b-3d89da76fc89
+  url: /pages/unit-ii/lecture-9
+  weight: 140
+- identifier: 5d1de23e-b7c4-9423-7bfa-ababd1266729
+  name: Lecture 10
+  parent: 8918d70e-c9d0-1faa-137b-3d89da76fc89
+  url: /pages/unit-ii/lecture-10
+  weight: 150
+- identifier: 4359e52b-be89-7809-e0a4-c64ed6ae4af7
+  name: Lecture 11
+  parent: 8918d70e-c9d0-1faa-137b-3d89da76fc89
+  url: /pages/unit-ii/lecture-11
+  weight: 160
+- identifier: d2fb21e5-831b-05e6-e0e1-5720b8f29dba
+  name: Lecture 12
+  parent: 8918d70e-c9d0-1faa-137b-3d89da76fc89
+  url: /pages/unit-ii/lecture-12
+  weight: 170
+- identifier: 6fa0388f-081f-b91b-7c60-7bf0b0f6197d
+  name: Quiz 2
+  parent: 8918d70e-c9d0-1faa-137b-3d89da76fc89
+  url: /pages/unit-ii/quiz-2
+  weight: 180
+- identifier: a407050c-bd3a-de7c-ddf4-8a582ba1ed50
+  name: 'Unit III: Random Processes'
+  url: /pages/unit-iii/
+  weight: 190
+- identifier: c2de91c2-c31e-3e16-f00c-bc8087ae8b53
+  name: Lecture 13
+  parent: a407050c-bd3a-de7c-ddf4-8a582ba1ed50
+  url: /pages/unit-iii/lecture-13
+  weight: 200
+- identifier: 8e470ec3-a395-bf84-a620-8d352722d79f
+  name: Lecture 14
+  parent: a407050c-bd3a-de7c-ddf4-8a582ba1ed50
+  url: /pages/unit-iii/lecture-14
+  weight: 210
+- identifier: 091b0bdf-2c56-e919-8e8d-1be1365e4db6
+  name: Lecture 15
+  parent: a407050c-bd3a-de7c-ddf4-8a582ba1ed50
+  url: /pages/unit-iii/lecture-15
+  weight: 220
+- identifier: 8f3c76f8-cf51-30bb-1aea-bcdc51a3cfa3
+  name: Lecture 16
+  parent: a407050c-bd3a-de7c-ddf4-8a582ba1ed50
+  url: /pages/unit-iii/lecture-16
+  weight: 230
+- identifier: 6c61e0f1-a4af-4a3b-6a5b-478304353f11
+  name: Lecture 17
+  parent: a407050c-bd3a-de7c-ddf4-8a582ba1ed50
+  url: /pages/unit-iii/lecture-17
+  weight: 240
+- identifier: 8fbf8bfb-c4ce-ea14-c0cc-3541ace7c6a4
+  name: Lecture 18
+  parent: a407050c-bd3a-de7c-ddf4-8a582ba1ed50
+  url: /pages/unit-iii/lecture-18
+  weight: 250
+- identifier: fcbf3273-e11e-bbee-8eef-a7788388f87a
+  name: 'Unit IV: Laws Of Large Numbers And Inference'
+  url: /pages/unit-iv/
+  weight: 260
+- identifier: a7292289-e3eb-1f87-59fe-7822a15409c3
+  name: Lecture 19
+  parent: fcbf3273-e11e-bbee-8eef-a7788388f87a
+  url: /pages/unit-iv/lecture-19
+  weight: 270
+- identifier: 7130cfbd-1446-2844-68da-e83bdd28e426
+  name: Lecture 20
+  parent: fcbf3273-e11e-bbee-8eef-a7788388f87a
+  url: /pages/unit-iv/lecture-20
+  weight: 280
+- identifier: ae332133-ad68-021b-8c11-95c3e6b70d0d
+  name: Lecture 21
+  parent: fcbf3273-e11e-bbee-8eef-a7788388f87a
+  url: /pages/unit-iv/lecture-21
+  weight: 290
+- identifier: 38d8f7e6-57b0-d5c7-d135-07f467ed742b
+  name: Lecture 22
+  parent: fcbf3273-e11e-bbee-8eef-a7788388f87a
+  url: /pages/unit-iv/lecture-22
+  weight: 300
+- identifier: eadd11a6-d653-17c5-f7d8-eae998cdc5e6
+  name: Lecture 23
+  parent: fcbf3273-e11e-bbee-8eef-a7788388f87a
+  url: /pages/unit-iv/lecture-23
+  weight: 310
+- identifier: 29dea00b-5d03-c47e-e671-3d65b06ab496
+  name: Lecture 24
+  parent: fcbf3273-e11e-bbee-8eef-a7788388f87a
+  url: /pages/unit-iv/lecture-24
+  weight: 320
+- identifier: 954792d8-6c4c-0407-b8df-99d7c887dade
+  name: Lecture 25
+  parent: fcbf3273-e11e-bbee-8eef-a7788388f87a
+  url: /pages/unit-iv/lecture-25
+  weight: 330
+- identifier: fc5aa2e6-faa1-b7bf-7cc5-be22b6e4d8e0
+  name: Final Exam
+  url: /pages/final-exam
+  weight: 340
+- identifier: ae41cdf6-4102-6e80-720a-f98f3a837b7b
+  name: Resource Index
+  url: /pages/resource-index/
+  weight: 350
+- identifier: 7af0a485-bf7d-f830-d75a-8558aa2aa746
+  name: Lecture Videos
+  parent: ae41cdf6-4102-6e80-720a-f98f3a837b7b
+  url: /pages/resource-index/lecture-videos
+  weight: 360
+- identifier: dec32db2-79b0-1f70-7f51-dfcf7ed9b6de
+  name: Recitation & Tutorial Videos
+  parent: ae41cdf6-4102-6e80-720a-f98f3a837b7b
+  url: /pages/resource-index/recitation-and-tutorial-videos
+  weight: 370
